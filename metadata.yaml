@@ -1,4 +1,4 @@
 homepage: "https://postajob.io/"
 documentation: "https://postajob.io/gtm"
-  - sha: 
+  - sha: e49d3aca0f85fbbc5fda0d069dc106a6ff004e3a
     changeNotes: Initial release.
